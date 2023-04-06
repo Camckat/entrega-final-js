@@ -1,0 +1,141 @@
+
+.navbar{
+    position: sticky;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+}
+
+.logo{
+    justify-content: flex-start;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+
+.iconoCarrito{
+    margin-left: 800px;
+    height: 100px;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+
+.contenedorPadre {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.cards{
+    text-align: center;
+    background-color: rgb(161, 164, 164);
+    padding: 30px;
+    margin-bottom: 50px;
+    box-shadow: 2px 4px 8px 2px rgba(rgb(182, 110, 240));
+    max-width: 300px;
+    margin: 10px 0px 10px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 8px;
+
+}
+
+.cards h2{
+    color: aliceblue;
+}
+
+
+.cards img { 
+    width: 80%;
+    height: 200px;
+}
+
+.cards p{
+    color: aliceblue;
+    text-align: justify;
+    padding: 20px;
+}
+
+.precio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+    
+}
+
+.cards button { 
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+    color: aliceblue;
+    background-color: rgb(13, 13, 13);
+    font-size: 15px;
+}
+
+.cards button:hover{
+    opacity: 0.7;
+}
+
+.modal-container{
+    width: 80%;
+    margin: 0 10%;
+    max-height: 88vh;
+    color: rgb(85, 153, 213);
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    position: fixed;
+    overflow: auto;
+    z-index: 9;
+    top: 12vh;
+    scrollbar-color: none;
+}
+
+.modal-container ::-webkit-scrollbar{
+    display: none;
+}
+
+.modal-header{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
+
+.modal-header-title{
+    justify-self: start;
+}
+
+.modal-header-button{
+    cursor: pointer;
+}
+
+.modal-container > .modal-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+}
+
+.modal-container > div > img{
+    height: 120px;
+    width: 120px;
+}
+
+.total-content{
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 20px;
+}

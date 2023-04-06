@@ -1,0 +1,51 @@
+[
+    {
+        
+        "nombre": "Jabón Artesanal",
+        "precio": 8000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://d1ih8jugeo2m5m.cloudfront.net/2022/03/como-hacer-jabones-artesanales-1-1200x685.jpg",
+        "cantidad": 1
+    },
+
+    {
+        "nombre": "Shampoo Romero",
+        "precio": 12000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://m.media-amazon.com/images/I/41rAfvVUg-L.jpg",
+        "cantidad": 1
+    },
+
+    {
+        "nombre": "Cepillo para Cabello",
+        "precio": 7000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://kavila.co/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-06-at-6.42.41-PM.jpeg",
+        "cantidad": 1
+    },
+
+    {
+        "nombre": "Aceite de Coco",
+        "precio": 15000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://www.semana.com/resizer/bYO2s40r6Bs9pq4GAIt9WWJrw8k=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/V7NJXAQYLRDULOITYF7WLL4JFQ.jpg",
+        "cantidad": 1
+    },
+
+    {
+        "nombre": "Cepillo de dientes",
+        "precio": 6000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://materialesecologicos.es/wp-content/uploads/2018/08/cepillo-dientes-bambu-cerdas-carbon-activo.jpg",
+        "cantidad": 1
+    },
+
+    
+    {
+        "nombre": "Kit Corporal",
+        "precio": 25000,
+        "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam repellat officia, sequi repudiandae reiciendis nihil, similique quaerat.",
+        "img": "https://www.productosdelbosqueseco.com/wp-content/uploads/2021/12/infusionescorazonmini-4.jpg",
+        "cantidad": 1
+    }
+]
